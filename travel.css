@@ -1,0 +1,42 @@
+/* Medium green: #00BD5B
+light grey: #D1D1D1
+light purple: #C7A1ED
+dark brown: #66210A
+*/
+
+h1, h2, h3 {
+	color: #66210A;
+}
+
+body {
+	background-color: #D1D1D1;
+}
+
+h1 {
+	text-align: center;
+}
+
+th, td {
+  border: #66210A solid 3px;
+  padding: 8px;
+}
+
+table{
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #C7A1ED;
+  font-weight: bold;
+}
+
+a:hover{
+  color: #00BD5B;
+}
+
+body{
+  padding: 10px;
+}
+
